@@ -1,4 +1,3 @@
-#David Pham 35764326 Lab Assignment 3
 import json
 import urllib.parse
 import urllib.request
